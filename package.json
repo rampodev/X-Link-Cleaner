@@ -1,0 +1,9 @@
+{
+  "name": "x-link-cleaner",
+  "private": true,
+  "license": "MIT",
+  "description": "Browser extension that cleans copied X/Twitter links and rewrites them to fixupx.com.",
+  "scripts": {
+    "build": "node scripts/build.js"
+  }
+}
