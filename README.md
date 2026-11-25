@@ -1,6 +1,7 @@
 # X Link Cleaner
 
 Chrome and Firefox extension that cleans links copied from X/Twitter.
+
 Available on [Chrome](https://chromewebstore.google.com/detail/x-link-cleaner/bliacbjkgekceccghinmhldgjobcohbn) and [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/x-twitter-link-cleaner/)
 
 When you use **Copy link** on a post (or copy a post link with Ctrl+C), the
